@@ -1,6 +1,6 @@
 # OpenAI
 
 
-| Keywords | Name | Link | Online source |
-|---|---|---|---|
-| Speech recognition | Whisper | 
+|Date| Keywords | Name | Link | Online source |
+|---|---|---|---|---|
+|2022.12.20| Speech recognition | Whisper | 
